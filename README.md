@@ -39,7 +39,7 @@ I am Hashem Ezzati, a graduate of Bachelor's degree in Mathematics, Master's deg
 		    <img src="https://img.icons8.com/doodle/40/000000/gmail--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/HashemEzzati">
 		    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		    <a style="margin-left: 5px;" target="_blank" href="https://github.com/HashemEzzati/HashemEzzati/blob/main/my-resume.pdf">
+		    <a style="margin-left: 5px;" target="_blank" href="https://github.com/HashemEzzati/HashemEzzati/blob/main/cv_7.pdf">
             <img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
