@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**HashemEzzati/HashemEzzati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <!-- number of visitors -->
+### Hi there 👋
 <p align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
@@ -43,8 +39,11 @@ I am Hashem Ezzati, a graduate of Bachelor's degree in Mathematics, Master's deg
 		    <img src="https://img.icons8.com/doodle/40/000000/gmail--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/HashemEzzati">
 		    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		    <a style="margin-left: 5px;" target="_blank" href="https://github.com/HashemEzzati/HashemEzzati/blob/main/my-resume.pdf">
+            <img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
 </p>
 <!-- activity graph heroku-app end -->
+
 
